@@ -6,7 +6,7 @@
 
 ### I was a working student for one and a half years in Dublin, :ireland:
 
-### Eager to work with cooperative colleagues with international people. 🔥
+### Eager to work with international and cooperative colleagues 🔥
 
 <br>
 
