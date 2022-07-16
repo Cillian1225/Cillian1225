@@ -2,17 +2,17 @@
 
 ## About me
 
-### I am currently working as a Full-Stack Web Developer💻
+### I am currently working as a Back-End Web Developer💻
 
-### In Seoul, South Korea since 2021 [korea](./korea.png)
+### In Seoul, South Korea since 2021 <img src="./korea.png" width="20px" height="20">
 
-### I was a student for one and a half years in Dublin, [ireland](./ireland.png)
+### I lived as a international student for one and a half years in Dublin, <img src="./ireland.png" width="20px" height="20px">
 
-### Worked as a Barman in Dublin, :ireland:
+### Worked as a Barman in Dublin, <img src="./ireland.png" width="20px" height="20px">
 
-### Playing Clarinet![clarinet](./clarinet.png) , Love Jazz and Whisky🥃
+### Playing Clarinet<img src="./clarinet.png" width="20px" height="20px">, Love Jazz and Whisky🥃
 
-### Eager to work with international and cooperative colleagues 🔥
+### Eager to work with international and cooperative colleagues soon 🔥
 
 ## Skills
 
