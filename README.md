@@ -10,7 +10,7 @@
 
 ### Worked as a Barman in Dublin, :ireland:
 
-### Playing Clarinet![clarinet](./clarinet.png) , Love Jazz and Whisky 🥃
+### Playing Clarinet![clarinet](./clarinet.png) , Love Jazz and Whisky🥃
 
 ### Eager to work with international and cooperative colleagues 🔥
 
