@@ -6,7 +6,7 @@
 
 ### In Seoul, South Korea since 2021 <img src="./korea.png" width="20px" height="20">
 
-### I lived as a international student for one and a half years in Dublin, <img src="./ireland.png" width="20px" height="20px">
+### I lived in Dublin as a international student for one and a half years, <img src="./ireland.png" width="20px" height="20px">
 
 ### Worked as a Barman in Dublin, <img src="./ireland.png" width="20px" height="20px">
 
