@@ -11,11 +11,9 @@
 
 ## Skills
 
-### ㅇMain Language <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+### ㅇMain Language <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### ㅇMain Framework <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
-
-### ㅇSupport Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### ㅇSupport Framework <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
@@ -26,6 +24,8 @@
 ![GitHub social](https://img.shields.io/github/followers/Cillian1225?style=social)
 ![GitHub commit](https://img.shields.io/github/last-commit/Cillian1225/Cillian1225?style=social)
 
+
+----------------------------------------------------Previous versio----------------------------------------------------
 ## About me
 
 ### I am currently working as a Back-End Web Developer💻
