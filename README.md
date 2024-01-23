@@ -3,7 +3,7 @@
 
 ### I am studying CS at University College Dublin💻
 
-### In Dublin, Republic of Ireland since May 2023<img src="./ireland.png" width="20px" height="20">
+### In Dublin, Republic of Ireland since May in 2023<img src="./ireland.png" width="20px" height="20">
 
 ### Playing Clarinet<img src="./clarinet.png" width="20px" height="20px">, Love Jazz and Whisky🥃
 
