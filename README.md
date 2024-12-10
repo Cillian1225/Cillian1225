@@ -1,6 +1,6 @@
 # Gyuwon Jung [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCillian1225%2FCillian1225&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-UCD Project account :) 
+UCD Project account :)  
 https://github.com/Q1-in-Dublin
 
 ## About me
@@ -15,11 +15,24 @@ https://github.com/Q1-in-Dublin
 
 ## Skills
 
-### ㅇMain Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+### ㅇMain Language 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
 
-### ㅇMain Framework <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+### ㅇMain Framework 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
-### ㅇSupport Framework <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+### ㅇSupport Framework 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+
+### ㅇDevOps Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+
+### ㅇBig Data Framework 
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white">
 
 ## Stats
 
@@ -27,7 +40,6 @@ https://github.com/Q1-in-Dublin
 
 ![GitHub social](https://img.shields.io/github/followers/Cillian1225?style=social)
 ![GitHub commit](https://img.shields.io/github/last-commit/Cillian1225/Cillian1225?style=social)
-
 
 ----------------------------------------------------Previous versio----------------------------------------------------
 ## About me
